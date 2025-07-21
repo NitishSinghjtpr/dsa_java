@@ -15,8 +15,7 @@ public class palindrom {
     
     public static void main(String[] args) {
         
-    //    int a= palindromm(132);
-    //    System.out.println(a);
+    
     boolean ans=check(121);
     System.out.println(ans);
     }
