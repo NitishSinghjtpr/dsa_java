@@ -1,4 +1,5 @@
-public class searchElement{
+
+    public class searchElement{
      static int search(int arr[], int x) {
         // code here
         for(int i=0;i<arr.length;i++){
@@ -16,3 +17,4 @@ public class searchElement{
 
     }
 }
+
