@@ -1,5 +1,3 @@
-package math;
-
 public class NimGame {
     public static boolean canWinNim(int n) {
         //Iss condition me jo pahle start karega wo jitega!

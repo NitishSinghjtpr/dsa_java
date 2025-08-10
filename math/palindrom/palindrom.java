@@ -1,4 +1,4 @@
-
+package math.palindrom;
 public class palindrom {
     public static boolean check(int n){
         int num=n;
