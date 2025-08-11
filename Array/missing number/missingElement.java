@@ -13,7 +13,7 @@ public class missingElement {
         if(ans==0){
             return -1;
         }
-        return expectedSum - actualSum;
+        return ans;
     }
     public static void main(String[] args) {
         int nums[]={1,2,3,4};
