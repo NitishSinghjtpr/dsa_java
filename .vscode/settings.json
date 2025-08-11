@@ -3,7 +3,10 @@
         "math/power  of two",
         "Game/Nim Game",
         "Game/Chess Game",
+        "Array/reverse array",
+        "Array/Searching element",
         "Array/Search Element",
-        "Array/Searching element"
-    ]
+        "Array/Second Largest"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
