@@ -4,10 +4,11 @@
         "Game/Nim Game",
         "Game/Chess Game",
         "Array/reverse array",
+        "Array/missing number",
         "Array/Second Largest",
         "Array/Searching element",
         "Array/Search Element",
-        "Array/missing number"
+        "Array/Fibonachi number"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
