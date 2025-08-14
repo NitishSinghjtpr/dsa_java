@@ -1,6 +1,6 @@
 public class missingElement {
     static int missingNumber(int[] nums) {
-        int n = nums.length;
+        int n = nums.length+1;
         int expectedSum = n * (n + 1) / 2; // sum from 0 to n
         int actualSum = 0;
 
@@ -16,7 +16,7 @@ public class missingElement {
         return ans;
     }
     public static void main(String[] args) {
-        int nums[]={1,2,3,4};
+        int nums[]={1,2,3,4,6,7,8};
         int ans=missingNumber(nums);
         System.out.println(ans);
 

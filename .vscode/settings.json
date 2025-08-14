@@ -8,7 +8,8 @@
         "Array/Second Largest",
         "Array/Searching element",
         "Array/Search Element",
-        "Array/Fibonachi number"
+        "Array/Fibonachi number",
+        "Array/Selection Sort"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

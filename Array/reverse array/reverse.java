@@ -1,12 +1,12 @@
 public class reverse {
     static void reverseArr(int[] arr){
         
-        int i=1,j=arr.length-1;
+        int i=0,j=arr.length-1;
        while(i<j){
         //swaping
-        int t=arr[i];
+        int temp=arr[i];
         arr[i]=arr[j];
-        arr[j]=t;
+        arr[j]=temp;
         i++;
         j--;
        }
