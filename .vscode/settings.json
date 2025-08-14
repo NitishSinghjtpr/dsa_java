@@ -5,11 +5,11 @@
         "Game/Chess Game",
         "Array/reverse array",
         "Array/missing number",
+        "Array/Selection Sort",
         "Array/Second Largest",
         "Array/Searching element",
-        "Array/Search Element",
         "Array/Fibonachi number",
-        "Array/Selection Sort"
+        "Array/Bubble sort"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
