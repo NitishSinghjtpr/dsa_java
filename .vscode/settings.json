@@ -9,7 +9,8 @@
         "Array/Second Largest",
         "Array/Searching element",
         "Array/Fibonachi number",
-        "Array/Bubble sort"
+        "Array/Bubble sort",
+        "Array/Insertion Sort"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
