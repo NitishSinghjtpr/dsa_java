@@ -11,7 +11,8 @@
         "Array/Insertion Sort",
         "Array/Fibonachi number",
         "Array/Bubble sort",
-        "Array/Binary Search"
+        "Array/Binary Search",
+        "Array/Search Insert position"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
