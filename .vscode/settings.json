@@ -8,11 +8,12 @@
         "Array/Selection Sort",
         "Array/Second Largest",
         "Array/Searching element",
+        "Array/Search Insert position",
         "Array/Insertion Sort",
         "Array/Fibonachi number",
         "Array/Bubble sort",
         "Array/Binary Search",
-        "Array/Search Insert position"
+        "Array/Rotate Array"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
