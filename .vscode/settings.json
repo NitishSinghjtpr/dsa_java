@@ -3,17 +3,20 @@
         "math/power  of two",
         "Game/Nim Game",
         "Game/Chess Game",
+        "Array/search in Rotate Array",
         "Array/reverse array",
+        "Array/plus one",
         "Array/missing number",
         "Array/Selection Sort",
         "Array/Second Largest",
         "Array/Searching element",
         "Array/Search Insert position",
+        "Array/Rotate Array",
         "Array/Insertion Sort",
         "Array/Fibonachi number",
         "Array/Bubble sort",
         "Array/Binary Search",
-        "Array/Rotate Array"
+        "divide array"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
