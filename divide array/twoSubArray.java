@@ -1,3 +1,4 @@
+//Time complexity O(n^2)
 public class twoSubArray {
     static int subArray(int[] arr){
         int n=arr.length;
