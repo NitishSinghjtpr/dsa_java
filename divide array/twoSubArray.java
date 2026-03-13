@@ -18,7 +18,7 @@ public class twoSubArray {
         return 0;
     }
     public static void main(String[] args) {
-        int []arr={1,-1,5,2,3,10};
+        int []arr={4,2,4};
         int ans=subArray(arr);
         System.out.println(ans);
     }

@@ -1,6 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "prefix&suffix/prefix",
         "math/power  of two",
+        "divide array",
         "Game/Nim Game",
         "Game/Chess Game",
         "Array/search in Rotate Array",
@@ -16,7 +18,7 @@
         "Array/Fibonachi number",
         "Array/Bubble sort",
         "Array/Binary Search",
-        "divide array"
+        "Array/Sorting by sort method"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

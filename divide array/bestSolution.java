@@ -1,3 +1,4 @@
+//time complexity O(n)
 public class bestSolution {
     static int subArray(int[] arr){
         int n=arr.length;
@@ -16,7 +17,7 @@ public class bestSolution {
         return 0;
     }
     public static void main(String[] args) {
-        int []arr={1,-1,5,5};
+        int []arr={4,2,4,2};
         int ans=subArray(arr);
         System.out.println(ans);
     }
