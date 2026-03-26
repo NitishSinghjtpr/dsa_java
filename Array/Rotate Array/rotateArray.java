@@ -1,6 +1,7 @@
 public class rotateArray {
     public static void main(String[] args) {
         int arr[]={4,6,8,10,1,2};
+        //find the minimum element in the rotated sorted array
         int start=0,end=arr.length-1,mid,ans=arr[0];
         while (start<=end) {
             mid=start+(end-start)/2;
@@ -12,7 +13,7 @@ public class rotateArray {
             }
         }
         System.out.println(ans);
-        
+          
     }
     
 }
