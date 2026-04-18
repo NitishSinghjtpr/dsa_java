@@ -5,6 +5,7 @@
         "divide array",
         "Game/Nim Game",
         "Game/Chess Game",
+        "BitManipulation/binary to dec",
         "Array/search in Rotate Array",
         "Array/reverse array",
         "Array/plus one",
@@ -15,11 +16,13 @@
         "Array/Searching element",
         "Array/Search Insert position",
         "Array/Rotate Array",
+        "Array/Remove duplicate array",
+        "Array/Odd+10 and evenMul2",
         "Array/Insertion Sort",
         "Array/Fibonachi number",
         "Array/Bubble sort",
         "Array/Binary Search",
-        "Array/Odd+10 and evenMul2"
+        "Day30 Dsa"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

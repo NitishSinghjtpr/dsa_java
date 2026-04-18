@@ -1,6 +1,6 @@
 public class removeDuplicateElement {
     public static void main(String[] args) {
-        int arr[] = {2,2,4,5,7,7,9,9,10};
+        int arr[] = {1,2,2,4,5,7,7,8,8,8,9,9,10,10,10};
         int temp[] = new int[arr.length];  // initialize
 
         int j = 0;
@@ -14,7 +14,7 @@ public class removeDuplicateElement {
         }
 
         for(int i = 0; i <= j; i++){
-            System.out.println(temp[i]);
+            System.out.print(temp[i]+" ");
         }
     }
     
